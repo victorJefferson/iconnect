@@ -1,4 +1,3 @@
-https://img.shields.io/badge/coverage-70-green
 # Iconnect
 
 This is the client side for the Iconnect application to help track hypertensive and diabetic patients across a population.
