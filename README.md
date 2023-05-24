@@ -1,4 +1,4 @@
-![Coverage Badge](https://img.shields.io/badge/coverage-70-green)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=victorJefferson_iconnect&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=victorJefferson_iconnect)
 # Iconnect
 
 This is the client side for the Iconnect application to help track hypertensive and diabetic patients across a population.
