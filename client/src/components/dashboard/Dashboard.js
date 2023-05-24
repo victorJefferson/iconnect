@@ -23,7 +23,7 @@ const Dashboard = ({ history }) => {
     <Fragment>
       {profile !== null ? (
         <Fragment>
-          <h1 className='large text-primary'>Hey, {user && user.name}</h1>
+          <h1 className='large text-primary'>Hi, {user && user.name}</h1>
           <br></br>
           <DashboardActions />
           <div className='dashboard-container'>
