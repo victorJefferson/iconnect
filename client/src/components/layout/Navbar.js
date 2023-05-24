@@ -80,7 +80,7 @@ const Navbar = ({ history }) => {
     <nav className='navbar dark'>
       <h2 className='logo'>
         <Link to='/'>
-          <i className='fa fa-comment'></i> iConnect
+          <i className='fa fa-comment'></i> iConnecto
         </Link>
       </h2>
       {!loading && (
