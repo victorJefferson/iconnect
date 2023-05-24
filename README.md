@@ -1,3 +1,4 @@
+![Coverage Badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/<YourUsername>/<gist_id>/raw/<your-repo>__pull_##.json)
 # Iconnect
 
 This is the client side for the Iconnect application to help track hypertensive and diabetic patients across a population.
